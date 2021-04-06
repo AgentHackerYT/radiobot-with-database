@@ -1,4 +1,4 @@
-# radiobot-with-database
+# RadioBot with database
 radio bot 24/7 with database enmap db. Easy to make in discord.js
 # Setup ⚙️
 - First Clone the file by doing ```git clone https://github.com/AgentHackerYT/radiobot-with-database/```
