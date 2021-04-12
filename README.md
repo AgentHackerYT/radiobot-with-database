@@ -8,8 +8,13 @@ or download it as ZIP. If downloaded as zip Extract it.
 - Then in .env file insert your token after TOKEN=(token here)
 
 
+- You can get a token from discord developer portal
+
+
 - Then in terminal do ```npm i```
 
+
+- Then Do ```node index.js```
 
  🎉Then you are ready to go🎉
 # Invite Radio Bot🤖
